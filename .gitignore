@@ -1,7 +1,7 @@
 #files and folders
 secrets/**
 nyc_taxy/**
-_pycache_/
+__pycache__/
 
 #csv files
 *csv
