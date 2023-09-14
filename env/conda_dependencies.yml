@@ -1,0 +1,7 @@
+# ./conda_dependencies.yml
+dependencies:
+  - python=3.10
+  - pip=21.2.4
+  - pip:
+      - mltable
+      - azureml-dataprep[pandas]

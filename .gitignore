@@ -1,0 +1,9 @@
+#files and folders
+secrets/**
+nyc_taxy/**
+_pycache_/
+
+#csv files
+*csv
+
+
